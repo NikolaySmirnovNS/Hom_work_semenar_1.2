@@ -1,0 +1,15 @@
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\bin\Debug\net6.0\Home_work1.6.exe
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\bin\Debug\net6.0\Home_work1.6.deps.json
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\bin\Debug\net6.0\Home_work1.6.runtimeconfig.json
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\bin\Debug\net6.0\Home_work1.6.dll
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\bin\Debug\net6.0\Home_work1.6.pdb
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.csproj.AssemblyReference.cache
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.AssemblyInfoInputs.cache
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.AssemblyInfo.cs
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.csproj.CoreCompileInputs.cache
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.dll
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\refint\Home_work1.6.dll
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.pdb
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\Home_work1.6.genruntimeconfig.cache
+C:\Users\cmirn\Desktop\Учеба\gb ручное тестирование\HomeWorkC#\Home_work1.6\obj\Debug\net6.0\ref\Home_work1.6.dll
